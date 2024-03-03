@@ -11,3 +11,10 @@ This project is a simple calculator built with React and styled with Tailwind CS
 -   Basic arithmetic operations (addition, subtraction, multiplication, division)
 -   Responsive design with Tailwind CSS
 -   Clear and user-friendly interface
+
+1. Clone the repository:
+
+```sh
+git clone https://github.com/MinsangKwak/calculator-react
+cd my-calculator
+```
