@@ -1,6 +1,8 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/MinsangKwak/react-deep?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/MinsangKwak/calculator-react?style=flat-square)
 ![React](https://img.shields.io/badge/React-61Dafb?style=flat-square&logo=React&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+
+https://minsangkwak.github.io/calculator-react/
 
 # My Calculator
 
